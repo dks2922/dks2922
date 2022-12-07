@@ -9,7 +9,7 @@
 ### 공부중인 프로젝트(SpringBoot, JPA, Thymleaf)
 <a href="https://github.com/dks2922/Studying">Stydy</a>
 
-### 포트폴리오(Spring MVC) *********현재 개발 미정*********
+### 포트폴리오(Spring MVC) *********현재 개발 중단*********
 <a href="https://github.com/dks2922/Ent">포트폴리오</a>
 
 <div align="center">
