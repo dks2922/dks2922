@@ -10,7 +10,7 @@
 <a href="https://github.com/dks2922/Studying">Stydy</a>
 
 ### 포트폴리오(Spring MVC) *********현재 개발 중단*********
-<a href="https://github.com/dks2922/Ent">포트폴리오</a>
+<a href="https://github.com/dks2922/bank">포트폴리오(Bank)</a>
 
 <div align="center">
 	<!--<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />-->
