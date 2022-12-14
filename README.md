@@ -1,7 +1,7 @@
 ### 블로그
 <a href="https://velog.io/@dks2922">Velog</a>
 
-### 코딩테스트
+### 프로그래머스
 <a href="https://career.programmers.co.kr/pr/dks2922_5156">Programmers</a>
 
 
