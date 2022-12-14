@@ -7,7 +7,8 @@
 
 
 ### 공부중인 프로젝트(SpringBoot, JPA, Thymleaf)
-<a href="https://github.com/dks2922/Studying">Stydy</a>
+<!-- <a href="https://github.com/dks2922/Studying">Stydy</a> -->
+<a href="#">포트폴리오 작성중</a> 
 
 ### 포트폴리오(Spring MVC) *********현재 개발 중(PG, 핀테크)*********
 <a href="https://github.com/dks2922/bank">포트폴리오(Bank)</a>
