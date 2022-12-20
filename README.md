@@ -11,7 +11,12 @@
 <a href="#">포트폴리오 작성중</a> 
 
 ### 포트폴리오(Spring MVC) *********현재 개발 중(PG, 핀테크)*********
-<a href="https://github.com/dks2922/bank">포트폴리오(Bank)</a>
+<!--<a href="https://github.com/dks2922/bank">포트폴리오(Bank)</a>-->
+<a href="https://github.com/Pin-Talk/pintalk">포트폴리오(핀테크)</a>
+TeamProJect
+FrontEnd : jangth0655, xxalsgh0203
+BackEnd  : dks2922
+<!-- https://github.com/Pin-Talk/pintalk.git -->
 
 <div align="center">
 	<!--<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />-->
