@@ -17,7 +17,7 @@
 TeamProJect
 <br/>
 FrontEnd : jangth0655, xxalsgh0203
-<img src="https://velopert.com/wp-content/uploads/2016/03/react.png" />
+<img src="https://user-images.githubusercontent.com/73531694/208562491-a31cd4bc-1162-466d-8b8a-873a21bb215a.png" />
 <br/>
 BackEnd  : dks2922
 
