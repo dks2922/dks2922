@@ -22,7 +22,8 @@ FrontEnd : <a href="https://github.com/jangth0655">jangth0655</a>, <a href="http
 <br/>
 
 BackEnd  : dks2922
-<img src="https://user-images.githubusercontent.com/73531694/208563271-ef6d9391-9306-4a08-b253-f8c2acd6836a.png" />
+<!--<img src="https://user-images.githubusercontent.com/73531694/208563271-ef6d9391-9306-4a08-b253-f8c2acd6836a.png" />-->
+<img src="https://user-images.githubusercontent.com/73531694/208837303-c4c0bf29-2587-495b-8511-73a5f4502bc0.png" />
 
 
 <!-- https://github.com/Pin-Talk/pintalk.git -->
