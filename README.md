@@ -20,7 +20,7 @@
 <br/>
 ProJect Setting (2022.12.22~ 2022.12.26)
 <br/>
-ProJect START SCREEN DEVELOPMENT (2022.12.22~ 2022.12.26)
+ProJect START SCREEN DEVELOPMENT (2022.12.27~ ing)
 
 TeamProJect 
 <br/>
