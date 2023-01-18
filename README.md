@@ -24,6 +24,10 @@ ProJect START SCREEN DEVELOPMENT (2022.12.27~ ing)
 
 TeamProJect 
 <br/>
+server 주소 : http://localhost:3000/admin
+<br/>
+<br/>
+
 
 FrontEnd : <a href="https://github.com/jangth0655">jangth0655</a>, <a href="https://github.com/xxalsgh0203">xxalsgh0203</a>
 <!-- <img src="https://user-images.githubusercontent.com/73531694/208562491-a31cd4bc-1162-466d-8b8a-873a21bb215a.png" />-->
