@@ -24,7 +24,7 @@ ProJect START SCREEN DEVELOPMENT (2022.12.27~ ing)
 
 TeamProJect 
 <br/>
-server 주소 : http://localhost:3000/admin
+server 주소 : http://52.78.1.166:3000/
 <br/>
 <br/>
 
