@@ -6,9 +6,9 @@
 
 
 
-### 공부중인 프로젝트(SpringBoot, JPA, Thymleaf)
+<!-- ### 공부중인 프로젝트(SpringBoot, JPA, Thymleaf) -->
 <!-- <a href="https://github.com/dks2922/Studying">Stydy</a> -->
-<a href="#">포트폴리오 작성중</a> 
+<!-- <a href="#">포트폴리오 작성중</a> -->
 
 <hr/>
 ### 포트폴리오(SpringBoot) *********현재 개발 중([핀테크]간편송금, 간편결제)*********
