@@ -24,7 +24,7 @@
 
 TeamProJect 
 <br/>
-server 주소 : http://52.78.1.166:3000/
+server 주소 : <!-- http://52.78.1.166:3000/ -->
 <br/>
 <br/>
 
