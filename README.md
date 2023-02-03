@@ -18,9 +18,7 @@
 <!--<a href="https://github.com/dks2922/bank">포트폴리오(Bank)</a>-->
 <a href="https://github.com/Pin-Talk/PinTalk_Real">포트폴리오(핀테크)</a>
 <br/>
-프로젝트 셋팅(EC2,RDS,Mysql) (2022.12.22~ 2022.12.26)
 <br/>
-화면개발 (2022.12.27~ ing)
 
 TeamProJect 
 <br/>
