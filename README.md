@@ -16,7 +16,8 @@
 <br/>
 
 <!--<a href="https://github.com/dks2922/bank">포트폴리오(Bank)</a>-->
-<a href="https://github.com/Pin-Talk/PinTalk_Real">포트폴리오(핀테크)</a>
+<a href="https://github.com/Pin-Talk/PinTalk_WAS">포트폴리오(핀테크) WAS</a>
+<a href="https://github.com/Pin-Talk/PinTalk_WEB">포트폴리오(핀테크) WEB</a>
 <br/>
 <br/>
 
