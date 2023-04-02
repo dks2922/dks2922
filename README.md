@@ -19,7 +19,7 @@
 <a href="https://github.com/Pin-Talk/ItemPander-WAS">팀 프로젝트 WAS</a>
 <br/>
 
-<a href="https://github.com/Pin-Talk/ItemPander-WEB">팀 프로젝트 WAS</a>f
+<a href="https://github.com/Pin-Talk/ItemPander-WEB">팀 프로젝트 WAS</a>
 <br/>
 <br/>
 
