@@ -16,15 +16,15 @@
 <br/>
 
 <!--<a href="https://github.com/dks2922/bank">포트폴리오(Bank)</a>-->
-<a href="https://github.com/Pin-Talk/PinTalk_WAS">포트폴리오(핀테크) WAS</a>
+<a href="https://github.com/Pin-Talk/ItemPander-WAS">팀 프로젝트 WAS</a>
 <br/>
 
-<a href="https://github.com/Pin-Talk/PinTalk_WEB">포트폴리오(핀테크) WEB</a>
+<a href="https://github.com/Pin-Talk/ItemPander-WEB">팀 프로젝트 WAS</a>f
 <br/>
 <br/>
 
 TeamProJect 
-<br/>
+<br/>f
 server 주소 : <!-- http://52.78.1.166:3000/ -->
 <br/>
 <br/>
